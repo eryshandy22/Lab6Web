@@ -116,6 +116,13 @@
         arcu. Proin in leo fringilla, vestibulum mi porta, faucibus felis. Integer<br>
         pharetra est nunc, nec pretium nunc pretium ac.</p>
     </div>
+    <nav class="navbar fixed-bottom navbar-dark bg-dark">
+      <div class="container-fluid">
+        <span class="navbar-text">
+          <p>&copy; 2021 - Universitas Pelita Bangsa</p>
+        </span>
+      </div>
+    </nav>
     
     <!-- Optional JavaScript; choose one of the two! -->
 
@@ -135,6 +142,6 @@
 <img width="960" alt="SS 1 lab web 6" src="https://user-images.githubusercontent.com/73053784/163116759-22e0f950-9968-482a-aac1-40eafce5ce96.png">
 
 ## LANJUTAN
-<img width="960" alt="SS 2 lab web 6" src="https://user-images.githubusercontent.com/73053784/163116859-66483a7f-0506-4913-ad02-116118e435eb.png">
+<img width="960" alt="SS 3 lab web 6" src="https://user-images.githubusercontent.com/73053784/163119257-72c1b1a6-e4ff-4898-a4df-35a0886c7346.png">
 
 
